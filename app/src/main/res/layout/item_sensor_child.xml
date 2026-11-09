@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tvChildName"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#3A3A3A"
+    android:paddingStart="24dp"
+    android:paddingTop="12dp"
+    android:paddingEnd="16dp"
+    android:paddingBottom="12dp"
+    android:text="Обороты двигателя: 3200 RPM"
+    android:textColor="#EAEAEA"
+    android:textSize="16sp" />
